@@ -1,0 +1,66 @@
+body{
+    background-color:#1A0F0A;
+    color: #ffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #33240d;
+    width: 1339px;
+    height: 60px;
+    background-color: #33240d;
+    color: #ffff;
+}
+
+p{
+    color: #A39C99;
+}
+
+.card3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #261912;
+    width: 1339px;
+    height: 350px;
+    background-color: #261912;
+    color: #ffff;
+}
+
+.card6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #33240d;
+    width: 1339px;
+    height: 300px;
+    background-color: #33240d;
+    color: #ffff;
+}
+
+.card9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #261912;
+    width: 1339px;
+    height: 350px;
+    background-color: #261912;
+    color: #ffff;
+}
+
+button{
+    background-color: #FFB800;
+    border: #FFB800;
+    border-radius: 20px;
+    font-size: 15px;
+    color: #ffff;
+}
+
+button:hover{
+    font-size: 20px;
+}
+
